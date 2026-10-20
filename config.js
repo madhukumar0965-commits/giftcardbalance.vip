@@ -10,7 +10,7 @@ export const siteConfig = {
   siteName: "Gift Card Balance",
   domain: "giftcardbalance.vip",
   siteUrl: "https://giftcardbalance.vip",
-  brandInitial: "GCB",
+  brandInitial: "GC",
 
   // 2. SEO & Head Metadata
   metaTitle: "GiftCardMall/MyGift | Official Website | Check Your Balance",
