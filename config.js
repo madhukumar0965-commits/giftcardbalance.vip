@@ -15,17 +15,17 @@ export const siteConfig = {
   // 2. SEO & Head Metadata
   metaTitle: "GiftCardMall/MyGift | Official Website | Check Your Balance",
   metaDescription:
-    "Independent GiftCardMall/MyGift balance guide. Learn how to safely check a gift card balance, review transactions, activate or register a card, and fix declined-card issues.",
+    " GiftCardMall/MyGift balance . Learn how to safely check a gift card balance, review transactions, activate or register a card, and fix declined-card issues.",
   author: "Gift Card Spend",
   themeColor: "#17324d",
   lastReviewedDate: "September 28, 2026",
   schemaDateModified: "2026-09-28",
 
   // 3. Social / Open Graph & Twitter Cards
-  ogTitle: "GiftCardMall/MyGift Balance Guide | Gift Card Spend",
+  ogTitle: "GiftCardMall/MyGift Balance | Gift Card Spend",
   ogDescription:
     "A clear, independent guide to GiftCardMall/MyGift balance checks, card activation, registration, transactions, and declined-card troubleshooting.",
-  twitterTitle: "GiftCardMall/MyGift Balance Guide",
+  twitterTitle: "GiftCardMall/MyGift Balance",
   twitterDescription:
     "Independent help for GiftCardMall/MyGift balance, activation, registration, transactions, and card-use questions.",
 
